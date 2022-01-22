@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { createSeedFile } = require('../../lib/seed');
+const { createSeedFile, randomizeData } = require('../../lib/seed');
 // get current seed file/data
 router.get('/', (req, res) => {
     res.json('hello')
@@ -7,7 +7,7 @@ router.get('/', (req, res) => {
 
 // create a new seed file
 router.post('/', (req, res) => {
-    const seed = createSeedFile(req.body)
+    const seed = randomizeData(req.body);
     res.json(seed);
 })
 
