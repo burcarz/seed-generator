@@ -4,36 +4,24 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style src="css/style.css"></style>
     <title>Seed Generator</title>
 </head>
 <body>
-    <form>
+    <form id="form">
         <h1>What Seeds Do You Need</h1>
-        <input type="text" placeholder="Model Name" />
-        <h4>first value name</h4>
-        <input type="text" placeholder="First value name" />
-        <h4>first value type</h4>
-        <select>
+        <input id="modelName" type="text" placeholder="Model Name" />
+        <h4>value key</h4>
+        <input class="key" id="key" type="text" placeholder="Value Key" />
+        <h4>value type</h4>
+        <select class="option" id="option">
             <option>INT</option>
             <option>STRING</option>
             <option>TEXT</option>
         </select>
-        <h4>second value name</h4>
-        <input type="text" placeholder="second value name" />
-        <h4>second value type</h4>
-        <select>
-            <option>INT</option>
-            <option>STRING</option>
-            <option>TEXT</option>
-        </select>
-        <h4>third value name</h4>
-        <input type="text" placeholder="third value name" />
-        <h4>third value type</h4>
-        <select>
-            <option>INT</option>
-            <option>STRING</option>
-            <option>TEXT</option>
-        </select>
+        <button type='button' id='submit-btn'>submit</button>
+        <button type='button' id="create-btn">create</button>
     </form>>
+    <script src="js/form-handler.js"></script>
 </body>
 </html>
