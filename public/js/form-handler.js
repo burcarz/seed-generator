@@ -1,13 +1,17 @@
 
 const seedArr = [];
+let seedAmt;
+let modelName;
 
 async function getSubmit(e) {
     e.preventDefault();
+
     const form = document.getElementById('form');
-    let modelName = document.getElementById('modelName').value.trim();
     const key = document.getElementById('key').value;
     const option = document.getElementById('option');
     let value = option.options[option.selectedIndex].text;
+
+
     seedArr.push({key: key, value: value});
     console.log(seedArr);
 
@@ -15,6 +19,10 @@ async function getSubmit(e) {
 }
 
 async function sendData(seedData) {
+    seedAmt = document.getElementById("amount").value.trim();
+    modelName = document.getElementById('modelName').value.trim();
+
+    seedArr.push({model: modelName, amt: seedAmt})
     console.log('clicked');
     const res = await fetch('../api/seeds', {
         method: 'POST',
