@@ -39,7 +39,20 @@ async function sendData(seedData) {
     }
 }
 
+async function download(e) {
+    e.preventDefault();
+
+    const res = await fetch('../api/seeds/download');
+    if (res.ok) {
+        console.log('success')
+    } else {
+        console.log('failed')
+    }
+}
+
 document.getElementById('submit-btn').addEventListener('click', getSubmit);
 document.getElementById('create-btn').addEventListener('click', (e) => {
     sendData(seedArr)
 });
+
+document.getElementById('download-btn').addEventListener('click', download)

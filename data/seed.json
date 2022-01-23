@@ -1,82 +1,122 @@
 [
   {
     "id": 1,
-    "username": "Kevin"
+    "username": "Trevor",
+    "votes": 72,
+    "bio": "Daniella is a part-time worker. I lost my most comfortable shoes. I lost my most comfortable shoes. I lost my most comfortable shoes. Beware of the green-eyed monster. He is taller than Mr. Hulas. This is the prettiest dress in the window. "
   },
   {
     "id": 2,
-    "username": "Ben"
+    "username": "Alex",
+    "votes": 71,
+    "bio": "This house is bigger than that one. Daniella is a part-time worker. My job is worse than yours. This house is bigger than that one. This is a four-foot table. I lost my most comfortable shoes. Jonathan is the most handsome man on campus. "
   },
   {
     "id": 3,
-    "username": "Sarah"
+    "username": "James",
+    "votes": 46,
+    "bio": "This house is bigger than that one. Jonathan is the most handsome man on campus. This is the prettiest dress in the window. I lost my most comfortable shoes. My job is worse than yours. Jonathan is the most handsome man on campus. He is taller than Mr. Hulas. "
   },
   {
     "id": 4,
-    "username": "James"
+    "username": "Jake",
+    "votes": 33,
+    "bio": "This is the prettiest dress in the window. Jonathan is the most handsome man on campus. My job is worse than yours. Jonathan is the most handsome man on campus. Beware of the green-eyed monster. Jonathan is the most handsome man on campus. This flower is more beautiful than that. "
   },
   {
     "id": 5,
-    "username": "Louis"
+    "username": "Dave",
+    "votes": 5,
+    "bio": "Daniella is a part-time worker. My job is worse than yours. Daniella is a part-time worker. This house is bigger than that one. This flower is more beautiful than that. I lost my most comfortable shoes. Beware of the green-eyed monster. "
   },
   {
     "id": 6,
-    "username": "Dave"
+    "username": "Alex",
+    "votes": 46,
+    "bio": "He is taller than Mr. Hulas. Beware of the green-eyed monster. Beware of the green-eyed monster. This is a four-foot table. My job is worse than yours. My job is worse than yours. Daniella is a part-time worker. "
   },
   {
     "id": 7,
-    "username": "Dave"
+    "username": "Sean",
+    "votes": 34,
+    "bio": "This house is bigger than that one. This flower is more beautiful than that. This flower is more beautiful than that. I lost my most comfortable shoes. Jonathan is the most handsome man on campus. He is taller than Mr. Hulas. I lost my most comfortable shoes. "
   },
   {
     "id": 8,
-    "username": "Johnny"
+    "username": "Zachary",
+    "votes": 30,
+    "bio": "This is the prettiest dress in the window. Daniella is a part-time worker. He is more intelligent than this boy. This flower is more beautiful than that. He is more intelligent than this boy. This is the prettiest dress in the window. My job is worse than yours. "
   },
   {
     "id": 9,
-    "username": "Sarah"
+    "username": "Sean",
+    "votes": 59,
+    "bio": "Beware of the green-eyed monster. This is the prettiest dress in the window. He is more intelligent than this boy. I lost my most comfortable shoes. This house is bigger than that one. This flower is more beautiful than that. Daniella is a part-time worker. "
   },
   {
     "id": 10,
-    "username": "Zachary"
+    "username": "Dave",
+    "votes": 51,
+    "bio": "My job is worse than yours. He is more intelligent than this boy. This is the prettiest dress in the window. He is taller than Mr. Hulas. This flower is more beautiful than that. He is more intelligent than this boy. Daniella is a part-time worker. "
   },
   {
     "id": 11,
-    "username": "Johnny"
+    "username": "Ben",
+    "votes": 26,
+    "bio": "I lost my most comfortable shoes. This house is bigger than that one. This house is bigger than that one. This flower is more beautiful than that. Jonathan is the most handsome man on campus. This house is bigger than that one. This house is bigger than that one. "
   },
   {
     "id": 12,
-    "username": "Alex"
+    "username": "Dave",
+    "votes": 37,
+    "bio": "He is taller than Mr. Hulas. This is a four-foot table. Beware of the green-eyed monster. He is more intelligent than this boy. This house is bigger than that one. He is taller than Mr. Hulas. My job is worse than yours. "
   },
   {
     "id": 13,
-    "username": "Dave"
+    "username": "Kevin",
+    "votes": 0,
+    "bio": "This house is bigger than that one. He is taller than Mr. Hulas. This is the prettiest dress in the window. He is more intelligent than this boy. Beware of the green-eyed monster. This house is bigger than that one. Jonathan is the most handsome man on campus. "
   },
   {
     "id": 14,
-    "username": "Jake"
+    "username": "Steve",
+    "votes": 24,
+    "bio": "This flower is more beautiful than that. I lost my most comfortable shoes. Jonathan is the most handsome man on campus. He is more intelligent than this boy. My job is worse than yours. This is the prettiest dress in the window. Beware of the green-eyed monster. "
   },
   {
     "id": 15,
-    "username": "Zachary"
+    "username": "James",
+    "votes": 48,
+    "bio": "I lost my most comfortable shoes. He is taller than Mr. Hulas. This flower is more beautiful than that. This is a four-foot table. He is taller than Mr. Hulas. He is taller than Mr. Hulas. This house is bigger than that one. "
   },
   {
     "id": 16,
-    "username": "Kevin"
+    "username": "Alex",
+    "votes": 50,
+    "bio": "This house is bigger than that one. This flower is more beautiful than that. Jonathan is the most handsome man on campus. My job is worse than yours. Daniella is a part-time worker. My job is worse than yours. This house is bigger than that one. "
   },
   {
     "id": 17,
-    "username": "Steve"
+    "username": "Louis",
+    "votes": 39,
+    "bio": "He is more intelligent than this boy. This is a four-foot table. This is a four-foot table. This house is bigger than that one. Daniella is a part-time worker. Jonathan is the most handsome man on campus. This is a four-foot table. "
   },
   {
     "id": 18,
-    "username": "James"
+    "username": "Trevor",
+    "votes": 62,
+    "bio": "This flower is more beautiful than that. Beware of the green-eyed monster. I lost my most comfortable shoes. He is taller than Mr. Hulas. I lost my most comfortable shoes. Daniella is a part-time worker. Daniella is a part-time worker. "
   },
   {
     "id": 19,
-    "username": "Trevor"
+    "username": "Jake",
+    "votes": 28,
+    "bio": "He is taller than Mr. Hulas. This flower is more beautiful than that. He is more intelligent than this boy. Beware of the green-eyed monster. He is more intelligent than this boy. My job is worse than yours. This house is bigger than that one. "
   },
   {
     "id": 20,
-    "username": "Trevor"
+    "username": "Ben",
+    "votes": 42,
+    "bio": "Daniella is a part-time worker. He is taller than Mr. Hulas. I lost my most comfortable shoes. This flower is more beautiful than that. Jonathan is the most handsome man on campus. Beware of the green-eyed monster. Beware of the green-eyed monster. "
   }
 ]
